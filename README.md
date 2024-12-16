@@ -16,6 +16,7 @@ There are a total of 4 models:
 `rf_mdl_cannabis.mat` and `rf_mdl_ketamine.mat` are Random Forest models that classifies someone as a user of cannabis or ketamine respectively, using the 7 personality traits as the features.
 
 Data used:
+- `Drug_Consumption.csv` - copy of [UCI dataset](https://archive.ics.uci.edu/dataset/373/drug+consumption+quantified)
 - `xTestNBCannabis` (Features for Naive Bayes model to classify individuals as non-users or users of cannabis)
 - `xTestNBKetamine` (Features for Naive Bayes model to classify individuals as non-users or users of ketamine)
 - `xTestRFCannabis` (Features for Random Forest model to classify individuals as non-users or users of cannabis)
